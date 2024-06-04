@@ -6,3 +6,5 @@ Visualizations are a crucial aspect of data analysis and communication. They hel
 - Heatmap on pima-indians-diabetes-database and flights dataset from seaborn
 - Line plots with error bars to show standard deviation of passengers over the years
 - Histograms, Box-, violin-, strip-, and swarmplot on 2020-it-salary-survey-for-eu-region
+
+[2022]
